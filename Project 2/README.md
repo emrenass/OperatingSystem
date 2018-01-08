@@ -1,1 +1,3 @@
-Linux completely fair scheduling simulator
+Ahmet Emre Nas
+CS342-2
+21402357
