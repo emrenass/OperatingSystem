@@ -1,1 +1,3 @@
-Critical section problem with pthreads
+Ahmet Emre Nas
+21402357
+CS342-2
